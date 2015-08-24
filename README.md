@@ -7,3 +7,6 @@
 擦擦擦
 
 one more test
+
+so happy to learn git 
+git is too  diao!!!
